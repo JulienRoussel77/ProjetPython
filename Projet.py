@@ -73,8 +73,7 @@ class Arbre:
 		# fig.savefig("Arbre")
 		plt.show()
 	# def jouer(self):
-	
-#je rajoute un commentaire	
+		
 		
 #stocker la hauteur des feuilles les plus hautes dans un tableau
 a1 = Arbre(5,1)
